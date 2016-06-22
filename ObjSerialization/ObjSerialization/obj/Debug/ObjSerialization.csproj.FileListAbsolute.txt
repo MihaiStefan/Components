@@ -1,0 +1,5 @@
+c:\Mihai\workspace\Components\ObjSerialization\ObjSerialization\bin\Debug\ObjSerialization.dll
+c:\Mihai\workspace\Components\ObjSerialization\ObjSerialization\bin\Debug\ObjSerialization.pdb
+c:\Mihai\workspace\Components\ObjSerialization\ObjSerialization\obj\Debug\ObjSerialization.csprojResolveAssemblyReference.cache
+c:\Mihai\workspace\Components\ObjSerialization\ObjSerialization\obj\Debug\ObjSerialization.dll
+c:\Mihai\workspace\Components\ObjSerialization\ObjSerialization\obj\Debug\ObjSerialization.pdb

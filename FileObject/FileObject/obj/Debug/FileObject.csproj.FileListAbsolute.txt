@@ -1,0 +1,10 @@
+c:\Mihai\workspace\Components\FileObject\FileObject\bin\Debug\FileObject.dll
+c:\Mihai\workspace\Components\FileObject\FileObject\bin\Debug\FileObject.pdb
+c:\Mihai\workspace\Components\FileObject\FileObject\obj\Debug\FileObject.csprojResolveAssemblyReference.cache
+c:\Mihai\workspace\Components\FileObject\FileObject\obj\Debug\FileObject.dll
+c:\Mihai\workspace\Components\FileObject\FileObject\obj\Debug\FileObject.pdb
+c:\Mihai\workspace\Git\Components\FileObject\FileObject\bin\Debug\FileObject.dll
+c:\Mihai\workspace\Git\Components\FileObject\FileObject\bin\Debug\FileObject.pdb
+c:\Mihai\workspace\Git\Components\FileObject\FileObject\obj\Debug\FileObject.csprojResolveAssemblyReference.cache
+c:\Mihai\workspace\Git\Components\FileObject\FileObject\obj\Debug\FileObject.dll
+c:\Mihai\workspace\Git\Components\FileObject\FileObject\obj\Debug\FileObject.pdb

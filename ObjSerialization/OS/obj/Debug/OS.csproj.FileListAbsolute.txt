@@ -1,0 +1,6 @@
+C:\Mihai\workspace\Components\ObjSerialization\OS\bin\Debug\OS.exe.config
+C:\Mihai\workspace\Components\ObjSerialization\OS\bin\Debug\OS.exe
+C:\Mihai\workspace\Components\ObjSerialization\OS\bin\Debug\OS.pdb
+C:\Mihai\workspace\Components\ObjSerialization\OS\obj\Debug\OS.csprojResolveAssemblyReference.cache
+C:\Mihai\workspace\Components\ObjSerialization\OS\obj\Debug\OS.exe
+C:\Mihai\workspace\Components\ObjSerialization\OS\obj\Debug\OS.pdb

@@ -1,0 +1,15 @@
+c:\Mihai\workspace\Git\ImageFile\ImageFile\obj\Debug\ImageFile.csprojResolveAssemblyReference.cache
+c:\Mihai\workspace\Git\ImageFile\ImageFile\bin\Debug\ImageFile.dll
+c:\Mihai\workspace\Git\ImageFile\ImageFile\bin\Debug\ImageFile.pdb
+c:\Mihai\workspace\Git\ImageFile\ImageFile\obj\Debug\ImageFile.dll
+c:\Mihai\workspace\Git\ImageFile\ImageFile\obj\Debug\ImageFile.pdb
+C:\Mihai\workspace\ImageFile\ImageFile\bin\Debug\ImageFile.dll
+C:\Mihai\workspace\ImageFile\ImageFile\bin\Debug\ImageFile.pdb
+C:\Mihai\workspace\ImageFile\ImageFile\obj\Debug\ImageFile.csprojResolveAssemblyReference.cache
+C:\Mihai\workspace\ImageFile\ImageFile\obj\Debug\ImageFile.dll
+C:\Mihai\workspace\ImageFile\ImageFile\obj\Debug\ImageFile.pdb
+C:\Mihai\workspace\Components\ImageFile\ImageFile\bin\Debug\ImageFile.dll
+C:\Mihai\workspace\Components\ImageFile\ImageFile\bin\Debug\ImageFile.pdb
+C:\Mihai\workspace\Components\ImageFile\ImageFile\obj\Debug\ImageFile.dll
+C:\Mihai\workspace\Components\ImageFile\ImageFile\obj\Debug\ImageFile.pdb
+C:\Mihai\workspace\Components\ImageFile\ImageFile\obj\Debug\ImageFile.csprojResolveAssemblyReference.cache

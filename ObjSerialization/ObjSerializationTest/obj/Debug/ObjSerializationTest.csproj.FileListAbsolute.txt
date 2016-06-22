@@ -1,0 +1,11 @@
+c:\Mihai\workspace\Components\ObjSerialization\ObjSerializationTest\bin\Debug\ObjSerializationTest.exe.config
+c:\Mihai\workspace\Components\ObjSerialization\ObjSerializationTest\bin\Debug\ObjSerializationTest.exe
+c:\Mihai\workspace\Components\ObjSerialization\ObjSerializationTest\bin\Debug\ObjSerializationTest.pdb
+c:\Mihai\workspace\Components\ObjSerialization\ObjSerializationTest\bin\Debug\ObjSerialization.dll
+c:\Mihai\workspace\Components\ObjSerialization\ObjSerializationTest\bin\Debug\ObjSerialization.pdb
+c:\Mihai\workspace\Components\ObjSerialization\ObjSerializationTest\obj\Debug\ObjSerializationTest.csprojResolveAssemblyReference.cache
+c:\Mihai\workspace\Components\ObjSerialization\ObjSerializationTest\obj\Debug\ObjSerializationTest.Form1.resources
+c:\Mihai\workspace\Components\ObjSerialization\ObjSerializationTest\obj\Debug\ObjSerializationTest.Properties.Resources.resources
+c:\Mihai\workspace\Components\ObjSerialization\ObjSerializationTest\obj\Debug\ObjSerializationTest.csproj.GenerateResource.Cache
+c:\Mihai\workspace\Components\ObjSerialization\ObjSerializationTest\obj\Debug\ObjSerializationTest.exe
+c:\Mihai\workspace\Components\ObjSerialization\ObjSerializationTest\obj\Debug\ObjSerializationTest.pdb
