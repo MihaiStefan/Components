@@ -11,3 +11,10 @@ C:\Mihai\workspace\Components\DirectoryLister\FolderTree\obj\Debug\DirectoryList
 C:\Mihai\workspace\Components\DirectoryLister\FolderTree\obj\Debug\FolderTree.csproj.GenerateResource.Cache
 C:\Mihai\workspace\Components\DirectoryLister\FolderTree\obj\Debug\FolderTree.dll
 C:\Mihai\workspace\Components\DirectoryLister\FolderTree\obj\Debug\FolderTree.pdb
+c:\Users\stnmi\work\DirectoryLister\FolderTree\bin\Debug\FolderTree.dll
+c:\Users\stnmi\work\DirectoryLister\FolderTree\bin\Debug\FolderTree.pdb
+c:\Users\stnmi\work\DirectoryLister\FolderTree\obj\Debug\FolderTree.csprojResolveAssemblyReference.cache
+c:\Users\stnmi\work\DirectoryLister\FolderTree\obj\Debug\DirectoryLister.FolderTree.resources
+c:\Users\stnmi\work\DirectoryLister\FolderTree\obj\Debug\FolderTree.csproj.GenerateResource.Cache
+c:\Users\stnmi\work\DirectoryLister\FolderTree\obj\Debug\FolderTree.dll
+c:\Users\stnmi\work\DirectoryLister\FolderTree\obj\Debug\FolderTree.pdb

@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Drawing;
 using System.Data;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Windows.Forms;
 using System.IO;
@@ -14,10 +15,12 @@ namespace DirectoryLister
     {
         //public event EventHandler FolderNodeDoubleClick;
         public event TreeNodeMouseClickEventHandler FolderNodeDoubleClick;
+        private ImageList ImgList;
 
         public FolderTree()
         {
             InitializeComponent();
+
             //get a list of the drives
             string[] drives = Environment.GetLogicalDrives();
 

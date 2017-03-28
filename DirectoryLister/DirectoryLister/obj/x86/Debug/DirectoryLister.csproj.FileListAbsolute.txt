@@ -56,3 +56,14 @@ C:\Mihai\workspace\Components\DirectoryLister\DirectoryLister\obj\x86\Debug\Dire
 C:\Mihai\workspace\Components\DirectoryLister\DirectoryLister\obj\x86\Debug\DirectoryLister.MainForm.resources
 C:\Mihai\workspace\Components\DirectoryLister\DirectoryLister\obj\x86\Debug\DirectoryLister.Properties.Resources.resources
 C:\Mihai\workspace\Components\DirectoryLister\DirectoryLister\obj\x86\Debug\DirectoryLister.csproj.GenerateResource.Cache
+c:\Users\stnmi\work\DirectoryLister\DirectoryLister\bin\Debug\DirectoryLister.exe.config
+c:\Users\stnmi\work\DirectoryLister\DirectoryLister\obj\x86\Debug\DirectoryLister.exe
+c:\Users\stnmi\work\DirectoryLister\DirectoryLister\obj\x86\Debug\DirectoryLister.pdb
+c:\Users\stnmi\work\DirectoryLister\DirectoryLister\bin\Debug\DirectoryLister.exe
+c:\Users\stnmi\work\DirectoryLister\DirectoryLister\bin\Debug\DirectoryLister.pdb
+c:\Users\stnmi\work\DirectoryLister\DirectoryLister\bin\Debug\FolderTree.dll
+c:\Users\stnmi\work\DirectoryLister\DirectoryLister\bin\Debug\FolderTree.pdb
+c:\Users\stnmi\work\DirectoryLister\DirectoryLister\obj\x86\Debug\DirectoryLister.csprojResolveAssemblyReference.cache
+c:\Users\stnmi\work\DirectoryLister\DirectoryLister\obj\x86\Debug\DirectoryLister.MainForm.resources
+c:\Users\stnmi\work\DirectoryLister\DirectoryLister\obj\x86\Debug\DirectoryLister.Properties.Resources.resources
+c:\Users\stnmi\work\DirectoryLister\DirectoryLister\obj\x86\Debug\DirectoryLister.csproj.GenerateResource.Cache
