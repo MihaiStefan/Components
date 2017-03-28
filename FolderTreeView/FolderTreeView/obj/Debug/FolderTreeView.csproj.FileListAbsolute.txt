@@ -5,3 +5,10 @@ c:\Mihai\workspace\Git\FolderTreeView\FolderTreeView\bin\Debug\FolderTreeView.dl
 c:\Mihai\workspace\Git\FolderTreeView\FolderTreeView\bin\Debug\FolderTreeView.pdb
 c:\Mihai\workspace\Git\FolderTreeView\FolderTreeView\obj\Debug\FolderTreeView.dll
 c:\Mihai\workspace\Git\FolderTreeView\FolderTreeView\obj\Debug\FolderTreeView.pdb
+c:\Users\stnmi\work\FolderTreeView\FolderTreeView\bin\Debug\FolderTreeView.dll
+c:\Users\stnmi\work\FolderTreeView\FolderTreeView\bin\Debug\FolderTreeView.pdb
+c:\Users\stnmi\work\FolderTreeView\FolderTreeView\obj\Debug\FolderTreeView.csprojResolveAssemblyReference.cache
+c:\Users\stnmi\work\FolderTreeView\FolderTreeView\obj\Debug\DirectoryLister.FolderTreeView.resources
+c:\Users\stnmi\work\FolderTreeView\FolderTreeView\obj\Debug\FolderTreeView.csproj.GenerateResource.Cache
+c:\Users\stnmi\work\FolderTreeView\FolderTreeView\obj\Debug\FolderTreeView.dll
+c:\Users\stnmi\work\FolderTreeView\FolderTreeView\obj\Debug\FolderTreeView.pdb

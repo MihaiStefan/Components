@@ -39,8 +39,11 @@
             this.dirsTreeView.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.dirsTreeView.ImageIndex = 0;
+            this.dirsTreeView.ImageList = this.imageList1;
             this.dirsTreeView.Location = new System.Drawing.Point(3, 3);
             this.dirsTreeView.Name = "dirsTreeView";
+            this.dirsTreeView.SelectedImageIndex = 0;
             this.dirsTreeView.Size = new System.Drawing.Size(408, 395);
             this.dirsTreeView.TabIndex = 1;
             this.dirsTreeView.BeforeExpand += new System.Windows.Forms.TreeViewCancelEventHandler(this.dirsTreeView_BeforeExpand);

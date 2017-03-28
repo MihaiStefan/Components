@@ -38,3 +38,16 @@ C:\Mihai\workspace\Components\ImageFile\ImageFileTest\bin\Debug\FolderTree.pdb
 c:\Mihai\workspace\Git\Components\ImageFile\ImageFileTest\bin\Debug\ImageFileTest.exe.config
 c:\Mihai\workspace\Git\Components\ImageFile\ImageFileTest\obj\Debug\ImageFileTest.exe
 c:\Mihai\workspace\Git\Components\ImageFile\ImageFileTest\obj\Debug\ImageFileTest.pdb
+c:\Users\stnmi\work\ImageFile\ImageFileTest\bin\Debug\ImageFileTest.exe.config
+c:\Users\stnmi\work\ImageFile\ImageFileTest\obj\Debug\ImageFileTest.exe
+c:\Users\stnmi\work\ImageFile\ImageFileTest\obj\Debug\ImageFileTest.pdb
+c:\Users\stnmi\work\ImageFile\ImageFileTest\bin\Debug\ImageFileTest.exe
+c:\Users\stnmi\work\ImageFile\ImageFileTest\bin\Debug\ImageFileTest.pdb
+c:\Users\stnmi\work\ImageFile\ImageFileTest\bin\Debug\FolderTree.dll
+c:\Users\stnmi\work\ImageFile\ImageFileTest\bin\Debug\ImageFile.dll
+c:\Users\stnmi\work\ImageFile\ImageFileTest\bin\Debug\ImageFile.pdb
+c:\Users\stnmi\work\ImageFile\ImageFileTest\bin\Debug\FolderTree.pdb
+c:\Users\stnmi\work\ImageFile\ImageFileTest\obj\Debug\ImageFileTest.csprojResolveAssemblyReference.cache
+c:\Users\stnmi\work\ImageFile\ImageFileTest\obj\Debug\ImageFileTest.Form1.resources
+c:\Users\stnmi\work\ImageFile\ImageFileTest\obj\Debug\ImageFileTest.Properties.Resources.resources
+c:\Users\stnmi\work\ImageFile\ImageFileTest\obj\Debug\ImageFileTest.csproj.GenerateResource.Cache

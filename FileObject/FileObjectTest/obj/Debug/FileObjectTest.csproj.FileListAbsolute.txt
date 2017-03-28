@@ -20,3 +20,14 @@ c:\Mihai\workspace\Git\Components\FileObject\FileObjectTest\obj\Debug\FileObject
 c:\Mihai\workspace\Git\Components\FileObject\FileObjectTest\obj\Debug\FileObjectTest.Form1.resources
 c:\Mihai\workspace\Git\Components\FileObject\FileObjectTest\obj\Debug\FileObjectTest.Properties.Resources.resources
 c:\Mihai\workspace\Git\Components\FileObject\FileObjectTest\obj\Debug\FileObjectTest.csproj.GenerateResource.Cache
+c:\Users\stnmi\work\FileObject\FileObjectTest\bin\Debug\FileObjectTest.exe.config
+c:\Users\stnmi\work\FileObject\FileObjectTest\obj\Debug\FileObjectTest.exe
+c:\Users\stnmi\work\FileObject\FileObjectTest\obj\Debug\FileObjectTest.pdb
+c:\Users\stnmi\work\FileObject\FileObjectTest\bin\Debug\FileObjectTest.exe
+c:\Users\stnmi\work\FileObject\FileObjectTest\bin\Debug\FileObjectTest.pdb
+c:\Users\stnmi\work\FileObject\FileObjectTest\bin\Debug\FileObject.dll
+c:\Users\stnmi\work\FileObject\FileObjectTest\bin\Debug\FileObject.pdb
+c:\Users\stnmi\work\FileObject\FileObjectTest\obj\Debug\FileObjectTest.csprojResolveAssemblyReference.cache
+c:\Users\stnmi\work\FileObject\FileObjectTest\obj\Debug\FileObjectTest.Form1.resources
+c:\Users\stnmi\work\FileObject\FileObjectTest\obj\Debug\FileObjectTest.Properties.Resources.resources
+c:\Users\stnmi\work\FileObject\FileObjectTest\obj\Debug\FileObjectTest.csproj.GenerateResource.Cache

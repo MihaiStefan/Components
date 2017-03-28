@@ -13,3 +13,8 @@ C:\Mihai\workspace\Components\ImageFile\ImageFile\bin\Debug\ImageFile.pdb
 C:\Mihai\workspace\Components\ImageFile\ImageFile\obj\Debug\ImageFile.dll
 C:\Mihai\workspace\Components\ImageFile\ImageFile\obj\Debug\ImageFile.pdb
 C:\Mihai\workspace\Components\ImageFile\ImageFile\obj\Debug\ImageFile.csprojResolveAssemblyReference.cache
+c:\Users\stnmi\work\ImageFile\ImageFile\bin\Debug\ImageFile.dll
+c:\Users\stnmi\work\ImageFile\ImageFile\bin\Debug\ImageFile.pdb
+c:\Users\stnmi\work\ImageFile\ImageFile\obj\Debug\ImageFile.csprojResolveAssemblyReference.cache
+c:\Users\stnmi\work\ImageFile\ImageFile\obj\Debug\ImageFile.dll
+c:\Users\stnmi\work\ImageFile\ImageFile\obj\Debug\ImageFile.pdb

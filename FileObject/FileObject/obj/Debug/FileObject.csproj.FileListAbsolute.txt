@@ -8,3 +8,8 @@ c:\Mihai\workspace\Git\Components\FileObject\FileObject\bin\Debug\FileObject.pdb
 c:\Mihai\workspace\Git\Components\FileObject\FileObject\obj\Debug\FileObject.csprojResolveAssemblyReference.cache
 c:\Mihai\workspace\Git\Components\FileObject\FileObject\obj\Debug\FileObject.dll
 c:\Mihai\workspace\Git\Components\FileObject\FileObject\obj\Debug\FileObject.pdb
+c:\Users\stnmi\work\FileObject\FileObject\bin\Debug\FileObject.dll
+c:\Users\stnmi\work\FileObject\FileObject\bin\Debug\FileObject.pdb
+c:\Users\stnmi\work\FileObject\FileObject\obj\Debug\FileObject.csprojResolveAssemblyReference.cache
+c:\Users\stnmi\work\FileObject\FileObject\obj\Debug\FileObject.dll
+c:\Users\stnmi\work\FileObject\FileObject\obj\Debug\FileObject.pdb

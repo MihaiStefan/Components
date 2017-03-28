@@ -243,7 +243,7 @@ namespace ImageFile
         {
             this.Controls.Clear();
 
-            for (int i = 0; i < 300; i++)
+            for (int i = 0; i < 30; i++)
             {
                 thumbnail tbn = new thumbnail();
                 tbn.Name = /*"tbn" +*/ i.ToString();

@@ -58,9 +58,12 @@ namespace ImageFile
         protected override void OnMouseClick(MouseEventArgs e)
         {
             base.OnMouseClick(e);
+            /*
             this.IsSelected = !this.IsSelected;
             this._IsItNowSelected = true;
             this._UpdateSelection();
+            */
+            this.Focus();
         }
 
         protected override void OnResize(EventArgs e)
@@ -80,10 +83,29 @@ namespace ImageFile
         protected override void OnPaint(PaintEventArgs e)
         {
             base.OnPaint(e);
+
+            if (this.Focused)
+            {
+                ControlPaint.DrawBorder(e.Graphics, this.ClientRectangle, Color.Red, ButtonBorderStyle.Solid);
+            }
+            /*
             Pen myPen = new System.Drawing.Pen(Color.Red);
    
             e.Graphics.FillRectangle(Brushes.Black, new Rectangle(5, 5, this.Width - 10, this.Height - 10));
             this._UpdateSelection();
+            */
+        }
+
+        protected override void OnEnter(EventArgs e)
+        {
+            base.OnEnter(e);
+            this.Invalidate();
+        }
+
+        protected override void OnLeave(EventArgs e)
+        {
+            base.OnLeave(e);
+            this.Invalidate();
         }
         #endregion
 
